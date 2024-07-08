@@ -1,0 +1,2 @@
+# uganda
+Wordpress theme
